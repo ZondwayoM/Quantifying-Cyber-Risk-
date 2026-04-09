@@ -1,0 +1,13 @@
+domain,maturity_label,iso_maturity,cvar_99,el_mean,rri_mean
+Fraud Detection,weak,0.3,234.1944,5.9463,4.147
+Fraud Detection,medium,0.6,133.4319,5.9463,2.3631
+Fraud Detection,strong,0.8,66.5285,5.9463,1.1739
+Credit Scoring,weak,0.3,2318.0482,1156.2931,809.2053
+Credit Scoring,medium,0.6,1351.9005,1156.2931,462.3173
+Credit Scoring,strong,0.8,731.3762,1156.2931,231.0596
+AML Detection,weak,0.3,709244.319,20153.3004,14055.8676
+AML Detection,medium,0.6,404021.3644,20153.3004,8009.8775
+AML Detection,strong,0.8,201538.2085,20153.3004,3979.219
+Algorithmic Trading,weak,0.3,76404.5818,56610.7733,39621.4027
+Algorithmic Trading,medium,0.6,45261.3659,56610.7733,22638.1707
+Algorithmic Trading,strong,0.8,25590.2853,56610.7733,11316.0618

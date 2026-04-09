@@ -1,0 +1,4 @@
+scenario,reputational_mean,total_cascade_mean,value
+immediate_disclosure,2833.038210841828,122536.53690514843,
+delayed_disclosure,4249.557316262742,123953.05601056933,
+reputational_amplification_factor,,,1.4999999999999998

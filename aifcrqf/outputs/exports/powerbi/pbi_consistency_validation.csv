@@ -1,0 +1,26 @@
+domain,check,expected,actual,passed
+Fraud Detection,CVaR >= VaR,>= 35.80,133.4319,True
+Fraud Detection,VaR99 >= VaR95,>= 6.41,35.7953,True
+Fraud Detection,EL > 0 or p=0,> 0,5.9463,True
+Fraud Detection,RRI <= EL,<= 5.95,2.3631,True
+Fraud Detection,Maturity reduces RRI,< 4.1470,1.1739,True
+Fraud Detection,FPR <= 0.05%,<= 0.05%,0.0229,True
+Credit Scoring,CVaR >= VaR,">= 1,159.21",1351.9005,True
+Credit Scoring,VaR99 >= VaR95,>= 859.61,1159.2142,True
+Credit Scoring,EL > 0 or p=0,> 0,1156.2931,True
+Credit Scoring,RRI <= EL,"<= 1,156.29",462.3173,True
+Credit Scoring,Maturity reduces RRI,< 809.2053,231.0596,True
+Credit Scoring,CVaR99 stable ±5%,<= 5.00%,0.6788,True
+AML Detection,CVaR >= VaR,">= 121,251.44",404021.3644,True
+AML Detection,VaR99 >= VaR95,">= 24,347.52",121251.4411,True
+AML Detection,EL > 0 or p=0,> 0,20153.3004,True
+AML Detection,RRI <= EL,"<= 20,153.30",8009.8775,True
+AML Detection,Maturity reduces RRI,"< 14,055.8676",3979.219,True
+AML Detection,FPR <= 0.05%,<= 0.05%,2.5451,False
+AML Detection,CVaR99 stable ±5%,<= 5.00%,14.7268,False
+Algorithmic Trading,CVaR >= VaR,">= 41,326.90",45261.3659,True
+Algorithmic Trading,VaR99 >= VaR95,">= 34,382.27",41326.9035,True
+Algorithmic Trading,EL > 0 or p=0,> 0,56610.7733,True
+Algorithmic Trading,RRI <= EL,"<= 56,610.77",22638.1707,True
+Algorithmic Trading,Maturity reduces RRI,"< 39,621.4027",11316.0618,True
+Algorithmic Trading,CVaR99 stable ±5%,<= 5.00%,1.341,True

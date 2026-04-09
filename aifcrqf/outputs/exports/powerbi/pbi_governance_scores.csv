@@ -1,0 +1,17 @@
+domain,control_domain,maturity_score
+Fraud Detection,iso_maturity,0.6
+Fraud Detection,compliance_pct,60.0
+Fraud Detection,rri,2.38
+Fraud Detection,el,5.95
+Credit Scoring,iso_maturity,0.6
+Credit Scoring,compliance_pct,60.0
+Credit Scoring,rri,462.52
+Credit Scoring,el,1156.29
+AML Detection,iso_maturity,0.6
+AML Detection,compliance_pct,60.0
+AML Detection,rri,8061.32
+AML Detection,el,20153.3
+Algorithmic Trading,iso_maturity,0.6
+Algorithmic Trading,compliance_pct,60.0
+Algorithmic Trading,rri,22644.31
+Algorithmic Trading,el,56610.77

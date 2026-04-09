@@ -1,0 +1,45 @@
+domain,family,attack_class,max_success_rate,success_rate
+Fraud Detection,FGSM,Evasion,0.012614,0.012614
+Fraud Detection,PGD,Evasion,0.004036,0.004036
+Fraud Detection,C&W,Evasion,0.010091,0.010091
+Fraud Detection,Feature Perturb,Evasion,0.0,0.0
+Fraud Detection,Precision Attack,Evasion,0.001709,0.001709
+Fraud Detection,Centroid Evasion,Evasion,0.019677,0.019677
+Fraud Detection,Label Flip,Poisoning,0.0,0.0
+Fraud Detection,Targeted Flip,Poisoning,0.0,0.0
+Fraud Detection,Gain-Guided,Poisoning,0.0,0.0
+Fraud Detection,Clean Label,Poisoning,0.010526,0.010526
+Fraud Detection,Backdoor,Poisoning,0.010526,0.010526
+Credit Scoring,FGSM,Evasion,0.195,0.195
+Credit Scoring,PGD,Evasion,0.07,0.07
+Credit Scoring,C&W,Evasion,0.105,0.105
+Credit Scoring,Feature Perturb,Evasion,0.04,0.04
+Credit Scoring,Precision Attack,Evasion,0.116667,0.116667
+Credit Scoring,Centroid Evasion,Evasion,0.28,0.28
+Credit Scoring,Label Flip,Poisoning,0.035714,0.035714
+Credit Scoring,Targeted Flip,Poisoning,0.053571,0.053571
+Credit Scoring,Gain-Guided,Poisoning,0.017857,0.017857
+Credit Scoring,Clean Label,Poisoning,0.017857,0.017857
+Credit Scoring,Backdoor,Poisoning,0.017857,0.017857
+AML Detection,FGSM,Evasion,0.077046,0.077046
+AML Detection,PGD,Evasion,0.087141,0.087141
+AML Detection,C&W,Evasion,0.174283,0.174283
+AML Detection,Feature Perturb,Evasion,0.065887,0.065887
+AML Detection,Precision Attack,Evasion,0.243299,0.243299
+AML Detection,Centroid Evasion,Evasion,0.037194,0.037194
+AML Detection,Label Flip,Poisoning,0.0,0.0
+AML Detection,Targeted Flip,Poisoning,0.0,0.0
+AML Detection,Gain-Guided,Poisoning,0.0,0.0
+AML Detection,Clean Label,Poisoning,0.0,0.0
+AML Detection,Backdoor,Poisoning,0.053922,0.053922
+Algorithmic Trading,FGSM,Evasion,0.834862,0.834862
+Algorithmic Trading,PGD,Evasion,0.422018,0.422018
+Algorithmic Trading,C&W,Evasion,0.816514,0.816514
+Algorithmic Trading,Feature Perturb,Evasion,0.155963,0.155963
+Algorithmic Trading,Precision Attack,Evasion,0.275,0.275
+Algorithmic Trading,Centroid Evasion,Evasion,0.678899,0.678899
+Algorithmic Trading,Label Flip,Poisoning,0.015267,0.015267
+Algorithmic Trading,Targeted Flip,Poisoning,0.0,0.0
+Algorithmic Trading,Gain-Guided,Poisoning,0.083969,0.083969
+Algorithmic Trading,Clean Label,Poisoning,0.022901,0.022901
+Algorithmic Trading,Backdoor,Poisoning,0.068702,0.068702
